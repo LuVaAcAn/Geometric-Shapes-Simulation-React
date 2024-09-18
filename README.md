@@ -26,12 +26,13 @@ Bienvenido a mi proyecto de simulación interactiva, desarrollado en **React**. 
 3.  **Instala las dependencias:**
     `npm install` 
     
-
 ## 🚀 Ejecución
 Para ejecutar la aplicación en modo de desarrollo:
 `npm start` 
-
 Esto abrirá tu navegador con la aplicación en `http://localhost:3000`.
+
+## 🖼 Pruebas
+![image](https://github.com/user-attachments/assets/eef0e3d3-21e2-4f6c-9e0e-e20e712e7ef6)
 
 ## 🌐 Despliegue
 Puedes ver la aplicación en vivo una vez lo ejecutes.
