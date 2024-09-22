@@ -1,47 +1,47 @@
 
-# 🎨 Simulación de Formas Geométricas en React
+# 🎨 Simulation of Geometric Shapes in React
 
-Bienvenido a mi proyecto de simulación interactiva, desarrollado en **React**. En este proyecto, formas geométricas (cuadrados, círculos, triángulos) caen debido a la gravedad y responden a la interacción del usuario, permitiendo aplicar fuerza para elevarlas.
+Welcome to my interactive simulation project, developed in React. In this project, geometric shapes (squares, circles, triangles) fall due to gravity and respond to user interaction, allowing you to apply force to lift them.
 
 ## 🚀 Características
 
-- **Gravedad:** Las formas geométricas caen desde la parte superior de la pantalla y se detienen al llegar al suelo. 🌍
-- **Interacción Dinámica:** Al hacer clic y mantener el botón del mouse, puedes aplicar una fuerza para elevar las formas. 🌟
-- **Fuerza en Tiempo Real:** La fuerza aplicada se calcula en tiempo real y se limita a un valor máximo. ⚙️
-- **Diseño Atractivo:** Barra de fuerza que muestra la intensidad de la fuerza aplicada. 🎨
+- **Gravity:** Geometric shapes fall from the top of the screen and stop when they hit the ground. 🌍
+- **Dynamic Interaction:** By clicking and holding the mouse button, you can apply a force to lift the shapes. 🌟
+- **Real-Time Force:** The applied force is calculated in real-time and capped at a maximum value. ⚙️
+- **Diseño Atractivo:** A force bar displays the intensity of the applied force. 🎨
 
-## 🎯 Requisitos
-- **Node.js**: [Descargar Node.js](https://nodejs.org/)
-- **NPM/Yarn**: Incluido con Node.js
+## 🎯 Requirements
+- **Node.js**: [Download Node.js](https://nodejs.org/)
+- **NPM/Yarn**: Included with Node.js
 
-## 📦 Instalación
+## 📦 Installation
 
-1. **Clona el repositorio:**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git` 
 
-2.  **Navega al directorio del proyecto:**
+2.  **Navigate to the project directory:**
     `cd tu-repositorio` 
     
-3.  **Instala las dependencias:**
+3.  **Install the dependencies:**
     `npm install` 
     
-## 🚀 Ejecución
-Para ejecutar la aplicación en modo de desarrollo:
+## 🚀 Running the App
+To run the application in development mode:
 `npm start` 
-Esto abrirá tu navegador con la aplicación en `http://localhost:3000`.
+This will open your browser with the app at `http://localhost:3000`.
 
 ## 🖼 Pruebas
 ![image](https://github.com/user-attachments/assets/eef0e3d3-21e2-4f6c-9e0e-e20e712e7ef6)
 
-## 🌐 Despliegue
-Puedes ver la aplicación en vivo una vez lo ejecutes.
+## 🌐 Deployment
+You can see the live application once you run it.
 
-## 👨‍💻 Contacto
+## 👨‍💻 Contact
 
-Si tienes alguna pregunta o necesitas más información, no dudes en contactarme:
+If you have any questions or need more information, feel free to reach out:
 
 -   **Email:** luciano.achinangeles@gmail.com
 -   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/LuVaAcAn/)
 
-¡Gracias por tu interés en mi proyecto! 😊
+Thank you for your interest in my project! 😊
