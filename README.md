@@ -31,7 +31,7 @@ To run the application in development mode:
 `npm start` 
 This will open your browser with the app at `http://localhost:3000`.
 
-## 🖼 Pruebas
+## 🖼 Demo
 ![image](https://github.com/user-attachments/assets/eef0e3d3-21e2-4f6c-9e0e-e20e712e7ef6)
 
 ## 🌐 Deployment
